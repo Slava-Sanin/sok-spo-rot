@@ -1,2 +1,2 @@
-# sok-spo-rot.github.io
+# sok-spo-rot
 Logical games for Web
